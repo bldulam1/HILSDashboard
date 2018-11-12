@@ -1,0 +1,21 @@
+{
+  "name": "prototype2",
+  "version": "1.0.0",
+  "description": "Simple Knowledge base app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Brendon Dulam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.4",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "mongoose": "^5.3.11",
+    "pug": "^2.0.3"
+  }
+}
